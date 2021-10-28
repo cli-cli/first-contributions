@@ -2864,5 +2864,5 @@ Disguy
 - [Glory](https://github.com/gloriaporte)
 - [Gustavo Esser](https://github.com/GustavoEsser)
 - [Daniele Freitas](https://github.com/dani-freitas)
-
+- [Cindy Li](https://github.com/cli-cli)
 <!-- prettier-ignore-end -->
